@@ -1,0 +1,1 @@
+w linii 57 należy zmienić ścieżki obrazów
